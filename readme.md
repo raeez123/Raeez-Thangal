@@ -160,7 +160,7 @@ python2 -m pip install -r requirements.txt
 example
 ```
 example:python2 py-panther.py --url http://exa
-
+```
 Disclaimer
 -------
 This tool has been published educational purposes. It is intended to teach people how bad guys could track them, monitor them or obtain information from their credentials, we are not responsible for the use or the scope that someone may have through this project.
