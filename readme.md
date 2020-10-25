@@ -144,6 +144,23 @@ optional arguments:
 
 **--help**  It is used to see all the above options, from the executable.
 
+
+How to use it
+-------
+ First unload the tool.
+```
+git clone https://github.com/jofpin/py-panther.git
+cd py-panther
+python2 py-panther.py -h
+```
+If it does not work, try to install all the libraries that are located in the file **requirements.txt**
+```
+python2 -m pip install -r requirements.txt
+```
+example
+```
+example:python2 py-panther.py --url http://exa
+
 Disclaimer
 -------
 This tool has been published educational purposes. It is intended to teach people how bad guys could track them, monitor them or obtain information from their credentials, we are not responsible for the use or the scope that someone may have through this project.
@@ -154,7 +171,7 @@ Developer
 -------
 ADCD STUDENTS COCHIN & CALICUT
 
-Happy hacking!
+Happy Pentesting!
 -------
 I invite you, if you use this tool helps to share, collaborate. Let's make the Internet a safer place, let's report.
 
